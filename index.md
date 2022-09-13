@@ -1,6 +1,16 @@
+<style>
+
+.poster {
+    max-height: 85vh;
+}
+
+</style>
+
 # A hackathon with a twist!
 
-![Poster](hackacat.png)
+<p align="center">
+  <img src="hackacat.png" class="poster"/>
+</p>
 
 The Schrodinger-Week Hackathon has become an annual tradition now, where the **Turing Club** and **φ@I** collaborate to bring you a one of its kind hackathon in computational physics. The hackathon will test your creativity in solving problems, and also require you to use some basic skills from physics in general and computational physics in particular.
 
