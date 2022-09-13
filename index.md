@@ -30,7 +30,7 @@ Feel free to contact the organizers if you need additional information.
 
 # Want a look at the earlier hackathon. Here it is-
 
-- [DWH 2021](https://iiserm.github.io/schrodinger-week/code-the-matrix)
+- [SWH 2021](https://iiserm.github.io/schrodinger-week/code-the-matrix)
 
 
 {% include mathjax.html %}
