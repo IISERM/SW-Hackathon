@@ -16,7 +16,7 @@ The Schrodinger-Week Hackathon has become an annual tradition now, where the **T
 
 You can use any language of your choice, but obviously, Julia and Python are preferred. You can also use different languages for different questions. Make sure you don't use any fancy libraries. You can look into the [rules](./rules) for details.
 
-Before starting please register. We will not be able to accept your solutions without you registering. Each team of maximum 4 people needs to register only once.
+Before starting please register. We will not be able to accept your solutions without you registering. Each team of maximum 3 people needs to register only once.
 
 Also join the WhatsApp group for doubts, hints etc. Link will be shared on Φ@I and Turing Club groups to prevent spamming.
 
