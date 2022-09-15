@@ -18,7 +18,7 @@ A particular question might allow usage of a specific library. If so, it would b
 
 1. You can show your code to the organizers who will check the output. You may show the result at any time during the event, and can also make changes if the organizers reject your output.
 2. You will be expected to answer questions about your code.
-3. You will also zip all your files and send it to **phiclub@iisermohali.ac**.in at the end of the event. Name your file as DWH-`TEAMNAME`.
+3. You will also zip all your files and send it to **phiclub@iisermohali.ac**.in at the end of the event. Name your file as SWH-`TEAMNAME`.
 4. You give complete authority to anyone to use the code you write during the hackathon later in the future, without any restrictions, insofar that they keep all derivate works open source and non-commercial. All code will be hosted on this website so that you can also see other's code.
 
 ## Grading
