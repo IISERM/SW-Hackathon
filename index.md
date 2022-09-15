@@ -197,13 +197,13 @@ There are 2 balls, at $$x=0$$ and $$x=10$$, and an elastic wall at $$x = 0$$. Th
 
 #### Output :
 
-`31`
+`1`
 
 
 
 ## Question 5[100 Marks]
 
-Two massive particles of mass $$m_1$$ and $$m_2$$ are constrained to move on a ellipse of semi-major and semi-minor axis $$a$$ and $$b$$ centred at the origin, lying in a plane. They interact gravitationally and are placed in a potential that goes as $$kr^4$$. Take $$G=1$$.
+Two massive particles of mass $$m_1$$ and $$m_2$$ are constrained to move on a ellipse of semi-major and semi-minor axis $$a$$ and $$b$$ centred at the origin, lying in a plane. They interact gravitationally and are placed in a potential that goes as $$kr^4$$. Take $$G=1$$. Stop the simulation when a collision happens.
 
 ### Input
 
