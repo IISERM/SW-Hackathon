@@ -144,7 +144,7 @@ Qiskit documentation
 
 ## Question 3[80 Marks]
 
-Given a ray and N mirrors between two infinite boundaries at $$x = 0$$ and $$x=10$$, find the point where the ray hits the wall at $$x=10$$. Print None if it doesn't hit the wall.
+Given a ray and N mirrors between two infinite boundaries at $$x = 0$$ and $$x=10$$, find the point where the ray hits the wall at $$x=10$$. Print None if it doesn't hit the wall. **Graph is mandatory**.
 
 ### Input : 
 
