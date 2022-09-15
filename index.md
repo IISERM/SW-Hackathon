@@ -207,7 +207,7 @@ Two massive particles of mass $$m_1$$ and $$m_2$$ are constrained to move on a e
 
 ### Input
 
-`Initial position and velocity of particles`, `R`, `m_1`, `m_2`, `k`
+`Initial position and velocity of particles`, `a`, `b`, `m_1`, `m_2`, `k`
 
 ### Output
 
